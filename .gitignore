@@ -1,0 +1,4 @@
+#Sceneファイル
+*.unity
+#Tempフォルダ
+Temp/

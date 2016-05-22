@@ -1,0 +1,7 @@
+5.3.5f1:2.2.0.0
+Android
+E:/Program/unity/Editor/Data/Managed/UnityEngine.dll
+E:/Program/unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+E:/Program/unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+E:/Program/unity/Editor/Data/Managed/UnityEditor.dll
+E:/Program/unity/Editor/Data\Managed/Mono.Cecil.dll
